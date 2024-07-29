@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/server.dir/main.cpp.o -o server  src/log/liblog.a src/reactor/libreactor.a -lmysqlclient src/service/libservice.a src/log/liblog.a -pthread 

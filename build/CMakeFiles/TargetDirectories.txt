@@ -1,0 +1,12 @@
+/home/torch/code/linux-c++/newServer/build/CMakeFiles/server.dir
+/home/torch/code/linux-c++/newServer/build/CMakeFiles/edit_cache.dir
+/home/torch/code/linux-c++/newServer/build/CMakeFiles/rebuild_cache.dir
+/home/torch/code/linux-c++/newServer/build/src/log/CMakeFiles/log.dir
+/home/torch/code/linux-c++/newServer/build/src/log/CMakeFiles/edit_cache.dir
+/home/torch/code/linux-c++/newServer/build/src/log/CMakeFiles/rebuild_cache.dir
+/home/torch/code/linux-c++/newServer/build/src/service/CMakeFiles/service.dir
+/home/torch/code/linux-c++/newServer/build/src/service/CMakeFiles/edit_cache.dir
+/home/torch/code/linux-c++/newServer/build/src/service/CMakeFiles/rebuild_cache.dir
+/home/torch/code/linux-c++/newServer/build/src/reactor/CMakeFiles/reactor.dir
+/home/torch/code/linux-c++/newServer/build/src/reactor/CMakeFiles/edit_cache.dir
+/home/torch/code/linux-c++/newServer/build/src/reactor/CMakeFiles/rebuild_cache.dir

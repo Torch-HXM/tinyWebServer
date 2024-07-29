@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/log",
+					"jsonFile" : "directory-src.log-Debug-f2809aff8ae335556425.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/log",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/service",
+					"jsonFile" : "directory-src.service-Debug-aba02cc66927412d58e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/service",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/reactor",
+					"jsonFile" : "directory-src.reactor-Debug-2987510994ad5bb81b0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/reactor",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "server",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "log::@c50f4de1a1e2d0ee20d5",
+					"jsonFile" : "target-log-Debug-1b9e9c030e794ec215dc.json",
+					"name" : "log",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "reactor::@32ccfe14e5e0401697ee",
+					"jsonFile" : "target-reactor-Debug-be46f2b8e4de64769f43.json",
+					"name" : "reactor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server-Debug-768e779c1d069ab95c98.json",
+					"name" : "server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "service::@38da4c5e8ec58f69ad66",
+					"jsonFile" : "target-service-Debug-b81b034ff5040bc13d5c.json",
+					"name" : "service",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/torch/code/linux-c++/newServer/build",
+		"source" : "/home/torch/code/linux-c++/newServer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/torch/code/linux-c++/newServer/build",
+  "command": "/usr/bin/g++ -DLOGGER=\\\"ON\\\" -DPROJECT_PATH=\\\"/home/torch/code/linux-c++/newServer/\\\" -I/home/torch/code/linux-c++/newServer/src/log -I/home/torch/code/linux-c++/newServer/src/reactor -I/home/torch/code/linux-c++/newServer/src/service -g -pthread -o CMakeFiles/server.dir/main.cpp.o -c /home/torch/code/linux-c++/newServer/main.cpp",
+  "file": "/home/torch/code/linux-c++/newServer/main.cpp",
+  "output": "CMakeFiles/server.dir/main.cpp.o"
+},
+{
+  "directory": "/home/torch/code/linux-c++/newServer/build/src/log",
+  "command": "/usr/bin/g++ -DLOGGER=\\\"ON\\\" -DPROJECT_PATH=\\\"/home/torch/code/linux-c++/newServer/\\\"  -g -pthread -o CMakeFiles/log.dir/log.cpp.o -c /home/torch/code/linux-c++/newServer/src/log/log.cpp",
+  "file": "/home/torch/code/linux-c++/newServer/src/log/log.cpp",
+  "output": "src/log/CMakeFiles/log.dir/log.cpp.o"
+},
+{
+  "directory": "/home/torch/code/linux-c++/newServer/build/src/service",
+  "command": "/usr/bin/g++ -DLOGGER=\\\"ON\\\" -DPROJECT_PATH=\\\"/home/torch/code/linux-c++/newServer/\\\" -I/home/torch/code/linux-c++/newServer/src/log -g -pthread -o CMakeFiles/service.dir/service.cpp.o -c /home/torch/code/linux-c++/newServer/src/service/service.cpp",
+  "file": "/home/torch/code/linux-c++/newServer/src/service/service.cpp",
+  "output": "src/service/CMakeFiles/service.dir/service.cpp.o"
+},
+{
+  "directory": "/home/torch/code/linux-c++/newServer/build/src/reactor",
+  "command": "/usr/bin/g++ -DLOGGER=\\\"ON\\\" -DPROJECT_PATH=\\\"/home/torch/code/linux-c++/newServer/\\\" -I/home/torch/code/linux-c++/newServer/src/log -I/home/torch/code/linux-c++/newServer/src/service -g -pthread -o CMakeFiles/reactor.dir/reactor.cpp.o -c /home/torch/code/linux-c++/newServer/src/reactor/reactor.cpp",
+  "file": "/home/torch/code/linux-c++/newServer/src/reactor/reactor.cpp",
+  "output": "src/reactor/CMakeFiles/reactor.dir/reactor.cpp.o"
+}
+]
